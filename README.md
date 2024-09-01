@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArrODevv
-- 👀 I’m interested in Programming (:p), making Music and even more...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on making Games, but i'm not good enough (at least imo).
+- 👀 I’m interested in Programming (:p), making Music and more
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on making Games.
 - 📫 How to reach me **Coming Soon**
 
 <!---
