@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArrODevv
-- 👀 I’m interested in Programming (:p), making Music and more
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Programming (:p), making Music, (vet.) medicin, etc... <!-- - 🌱 I’m currently learning Rust -->
 - 💞️ I’m looking to collaborate on making Games.
-- 📫 How to reach me **Coming Soon**
+- 📫 How to reach me:
+  - Email: [ArrODevv@proton.me](mailto:ArrODevv@proton.me)
 
 <!---
 ArrODevv/ArrODevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
