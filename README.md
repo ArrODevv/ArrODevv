@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArrODevv
-- 👀 I’m interested in Programming (:p), making Music, (vet.) medicin, etc... <!-- - 🌱 I’m currently learning Rust -->
+- 👀 I’m interested in Programming (:p), making Music, (vet.) medicine, etc... <!-- - 🌱 I’m currently learning Rust -->
 - 💞️ I’m looking to collaborate on making Games.
 - 📫 How to reach me:
   - Email: [ArrODevv@proton.me](mailto:ArrODevv@proton.me)
